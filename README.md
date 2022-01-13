@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://github.com/NoobMahbub/m4r07/blob/main/Wave.gif" height="55px" width="55px">, I'm Maruf Ahmed Raj</h1>
+<h1 align="center">Hi <img src="https://github.com/m4r07/m4r07/blob/main/Wave.gif" height="55px" width="55px">, I'm Maruf Ahmed Raj</h1>
 <h3 align="center">¯\_(ツ)_/¯
 
 Programmer | Content Creator | Learner
