@@ -1,6 +1,6 @@
 ## Hi, I'm Maruf <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-### In short, enthusiast with passion for web design 🤦‍♂️
+### In short, enthusiast with passion for web design & development 🤦‍♂️
 - 🔭 I’m currently a - Student
 - 🌱 I’m currently learning - Web Devolopment
 - 👯 I’m looking to collaborate with - Other developers in community
